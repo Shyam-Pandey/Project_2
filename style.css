@@ -4,19 +4,12 @@
     box-sizing: border-box;
     font-family: "Red Rose", cursive;
   }
-  body {
-    /* height: ; */
-    /* width: 100vh; */
-  
-    background-image: url(/Project_2/imgaes/bg.png);
-    padding: 0;
-    margin: 0;
+  background-image: linear-gradient(rgb(4,9,30,0.7),rgb(4,9,30,0.7)) ,url(./imgaes/bg.png);
+    height: 667px;
     background-size: cover;
     background-repeat: no-repeat;
-  }
-  /* ------------------------------ */
+ 
   /* ---------- NAVBAR ------------ */
-  /* ------------------------------ */
   .navbar div img {
     margin-left: 30px;
     width: 150px;
@@ -43,10 +36,7 @@
     color: whitesmoke;
     margin-right: 100px;
   }
-  
-  /* ------------------------------ */
   /* ---------- HERO ------------ */
-  /* ------------------------------ */
   .hero {
     color: #edc126;
     text-align: center;
