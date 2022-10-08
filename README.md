@@ -13,8 +13,8 @@
 [Link](https://foodbitecm.netlify.app)
 
 ## Author and Contact
-- [Shyam Pandey](https://www.github.com/octokatherine)
-    - [Coder Community](https://web.codercommunity.io/user/62d568cb998d86c8883a2766?tab=posts)
+- [Shyam Pandey](https://github.com/Shyam-Pandey)
+    - [Coder Community]()
 
 ## Features
 - It is single page Website with full responsiveness.
